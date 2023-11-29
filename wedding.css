@@ -16,7 +16,7 @@
   body {
     background-image: url(images/background.jpeg);
     background-repeat: no-repeat;
-    background-position: center -170px;
+    background-position: center bottom;
     background-attachment: fixed;
     background-size: cover;
     display: -webkit-box;
