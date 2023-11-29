@@ -75,7 +75,7 @@
             justify-content: center;
     position: fixed;
     width: 100%;
-    top: 470px;
+    bottom: 0;
 }
 .coupple-image{
     width: 175px;
