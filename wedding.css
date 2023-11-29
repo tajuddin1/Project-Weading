@@ -77,7 +77,14 @@
     width: 100%;
     top: 470px;
 }
-
+.coupple-image{
+    width: 175px;
+}
+.coupple-image img{
+    width: 100%;
+    position: relative;
+    margin-left: -30px;
+}
 .btn {
     -webkit-appearance: none;
     border: 0;
